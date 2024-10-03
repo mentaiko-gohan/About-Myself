@@ -453,17 +453,17 @@ section {
 	margin-bottom: 10px;
 	text-align: right;
 }
-#section3 .l-login .box2 input:last-child {
-	width:100px;
-	height: 40px;
-	margin-top: 10px;
+#section3 .l-login .box2 a {
+	padding: 5px 30px;
 	border: none;
 	background-color: #58DBF0;
 	color: #fff;
 	text-align: center;
 	transition: 0.3s;
+	border-radius: 5px;
+	text-decoration: none;
 }
-#section3 .l-login .box2 input:last-child:hover {
+#section3 .l-login .box2 a:hover {
 	color: #091596;	/*文字色*/
 }
 
