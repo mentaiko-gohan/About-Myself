@@ -355,7 +355,7 @@ section {
 	color: #fff;	/*文字色*/
 }
 #section1::before {
-	background: url('/static/image/haikei.png') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('./image/haikei.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 #section1 .titlelogo img{
 	width: 55vw;
@@ -375,7 +375,7 @@ section {
 	color: #fff;	/*文字色*/
 }
 #section2::before {
-	background: url('/static/image/背景用2.png') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('./image/背景用2.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 
 #section2 .profile p {
@@ -403,7 +403,7 @@ section {
 	min-height: 100vh;
 }
 #section3::before {
-	background: url('/static/image/背景用3.png') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('./image/背景用3.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 /*#section3 .section .sec-title p{
 	position: absolute;
@@ -500,7 +500,7 @@ section {
 	min-height: 100vh;
 }
 #section4::before {
-	background: url('/static/image/背景用2.png') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('./image/背景用2.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 #section4 .profile1,#section4 .profile2,
 #section4 .profile3,#section4 .profile4 {
@@ -569,7 +569,7 @@ section {
 	min-height: 100vh;
 }
 #section5::before {
-	background: url('/static/image/背景用3.png') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('./image/背景用3.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 #section5 .form-signin {
 	margin-top: 10vw;
@@ -605,7 +605,7 @@ section {
 	min-height: 100vh;
 }
 #section6::before {
-	background: url('/static/image/背景用3.png') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('./image/背景用3.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 #section6 h1 {
 	margin-top: 100px;
